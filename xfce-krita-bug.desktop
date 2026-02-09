@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=clipboard bug
+Comment=
+Exec=env XFSETTINGSD_NO_CLIPBOARD=1 xfsettingsd --replace
+Icon=
+Path=
+Terminal=false
+StartupNotify=false
